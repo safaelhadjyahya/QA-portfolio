@@ -31,7 +31,7 @@ Testing activities included:
 -Collaboration with project managers, integrators, and technical teams.
 -Back-office follow-up of tickets and amendments.
 
-### 1. PSFDF – Volunteer Website Testing
+### 2. PSFDF – Volunteer Website Testing
 
 **Type:** Volunteer participation
 
@@ -41,7 +41,7 @@ Testing activities included:
 - Identification and documentation of issues.
 - Feedback and improvement suggestions.
 
-### 2. Accounting Firm – Website Testing
+### 3. Accounting Firm – Website Testing
 
 **Type:** One-time testing assignment
 
