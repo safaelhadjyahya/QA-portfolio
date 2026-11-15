@@ -18,6 +18,19 @@ The purpose of this portfolio is to document testing activities, identify websit
 
 ## 📂 Projects & Testing Experiences
 
+### 1. La boîte immo – Website Quality Control
+
+**Type:** Professional Experience
+
+Testing and validation of real estate websites in a web development environment.
+
+Testing activities included:
+-Verification across desktop, mobile, and tablet devices.
+-Identification and analysis of website issues.
+-Tracking reported issues and monitoring corrections.
+-Collaboration with project managers, integrators, and technical teams.
+-Back-office follow-up of tickets and amendments.
+
 ### 1. PSFDF – Volunteer Website Testing
 
 **Type:** Volunteer participation
